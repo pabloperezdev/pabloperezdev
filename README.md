@@ -1,15 +1,15 @@
 # Olá! Eu sou [Pablo Perez] 👋
 
- - Atenção:  Profissional .NET em desenvolvimento.
+ - Atenção:  Profissional Python em desenvolvimento.
 
  - Atualmente trabalho com RPA Fortra e banco de dados SQl Server
 
-💻 Desenvolvedor de Software em ascensão com foco em [.NET].
+💻 Desenvolvedor de Software em ascensão com foco em [Python].
 
 
 
 🚀 Habilidades:
-- **Linguagens**: C#, SQL Server.
+- **Linguagens**: Python, SQL Server, Postgres
 - **Ferramentas**: Git, Docker, 
 
 🌐 [Portfólio](link), [LinkedIn](link), [E-mail](@pabloperez1987@gmail.com)
